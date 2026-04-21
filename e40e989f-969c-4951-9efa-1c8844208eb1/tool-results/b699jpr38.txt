@@ -1,0 +1,675 @@
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+extglob.Name : 用語 'extglob.Name' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認
+識されません。名前が正しく記述されていることを確認し、パスが含まれている場合はそのパスが正しいことを確認してから、再試行し
+てください。
+発生場所 行:1 文字:36
++ Get-ChildItem Env: | Where-Object {extglob.Name -like '*ANTHROPIC*' - ...
++                                    ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (extglob.Name:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
